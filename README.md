@@ -1,40 +1,15 @@
-# Hello world! I'm Ramon Seugling 🌎
+# Hi there 👋
 
-## 👨🏻‍💻 Who I am?
-Hi everyone, my name is Ramon Seugling and here is where I stock my knowledge.
+My name is Ramon Seugling, I'm a Software Engineer at **[@mercadolibre](https://github.com/mercadolibre)**.
 
-I am a **Software Engineer** who builds scalable, useful and beautiful interfaces. During 6+ years with programming I've worked in different projects with different domains, such as health, security and e-commerce.
+I'm driven by the **joy** of building things. From validating side projects to solve my own problems or those of my family and friends, to shipping software that impacts millions, I focus on crafting reliable and user-friendly systems that just work.
 
-Currently working in **Mercado Livre**, one of the most influential companies of Latin America with **400M+ users over 18 countries**. 
+I believe technology is a tool to make life easier, and I'm always motivated to build things that actually make a difference.
 
-I consider myself a problem solver, focused on delivering reliable and well-structured solutions. I believe in the transformative power of technology in people's lives, and I feel both responsible and motivated to contribute to this meaningful field.
+- 🛠️ Currently building high-scale solutions at Meli.
+- 🏗️ Working on **[my-forever-dates](https://github.com/ramonseugling/my-forever-dates)**, a side project to make sure I never miss a friend's birthday.
+- 💡 Always building, breaking, and learning.
 
-## 🪄 What I am good on
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
-### Tools
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-## 👀 Where find me
-
-- 💼 **Linkedin:** [Ramon Seugling](https://www.linkedin.com/in/ramon-seugling/)
-- 📫 **Email:** ramonseugling@gmail.com 
-
-<!-- Links -->
-
-[1]: https://github.com/ramonseugling
-[2]: https://www.linkedin.com/in/ramon-seugling
+### 📫 Reach me
+- 💼 **LinkedIn:** [Ramon Seugling](https://www.linkedin.com/in/ramon-seugling/)
+- 📧 **Email:** [ramonseugling@gmail.com](mailto:ramonseugling@gmail.com)
