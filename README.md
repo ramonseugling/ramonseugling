@@ -7,7 +7,7 @@ I'm driven by the **joy** of building things. From validating side projects to s
 I believe technology is a tool to make life easier, and I'm always motivated to build things that actually make a difference.
 
 - 🛠️ Currently building high-scale solutions at Meli.
-- 🏗️ Working on **[my-forever-dates](https://github.com/ramonseugling/my-forever-dates)**, a side project to make sure I never miss a friend's birthday.
+- 🏗️ Working on **[Rememberly](https://github.com/ramonseugling/rememberly)**, a side project to make sure I never miss a friend's birthday.
 - 💡 Always building, breaking, and learning.
 
 ### 📫 Reach me
