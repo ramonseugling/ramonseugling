@@ -11,5 +11,7 @@ I believe technology is a tool to make life easier, and I'm always motivated to 
 - 💡 Always building, breaking, and learning.
 
 ### 📫 Reach me
+- 🌐 **Portfolio:** [ramonseugling.dev](https://ramonseugling.dev)
+- 📄 **Resume:** [Download PDF](https://ramonseugling.dev/Ramon-Seugling-resume.pdf)
 - 💼 **LinkedIn:** [Ramon Seugling](https://www.linkedin.com/in/ramon-seugling/)
 - 📧 **Email:** [ramonseugling@gmail.com](mailto:ramonseugling@gmail.com)
