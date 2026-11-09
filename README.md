@@ -3,7 +3,7 @@
 
 I'm a software engineer at [**Mercado Libre**](https://github.com/mercadolibre), with a product mindset and a passion for building useful things.
 
-From side projects to software used by millions, I enjoy turning ideas into simple, reliable products that make a difference.
+From side projects to software used by millions, I enjoy solving real problems through software.
 
 Currently building [**Rememberly**](https://github.com/ramonseugling/rememberly).
 
